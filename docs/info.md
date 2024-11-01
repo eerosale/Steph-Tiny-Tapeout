@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Pins 0, 1 are connected to a NAND Gate. Pines 2, 3 are connected to another nand gate. Those 2 nand gates are then tied to gether and the output is for pin 1.
 
 ## How to test
 
