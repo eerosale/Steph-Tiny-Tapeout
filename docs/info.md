@@ -13,8 +13,8 @@ Pins 0, 1 are connected to a NAND Gate. Pines 2, 3 are connected to another nand
 
 ## How to test
 
-Explain how to use your project
+Set pins 1-7 high
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
